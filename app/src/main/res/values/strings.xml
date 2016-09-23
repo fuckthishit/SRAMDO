@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">SRA MDO</string>
+    <string name="title_activity_create_fields">Map</string>
+    <string-array name="Municipality">
+        <item>Angeles City</item>
+        <item>Arayat</item>
+        <item>Bacolor</item>
+        <item>Dinalupihan</item>
+        <item>Floridablanca</item>
+        <item>Guagua</item>
+        <item>Hermosa</item>
+        <item>Lubao</item>
+        <item>Mabalacat</item>
+        <item>Magalang</item>
+        <item>Mexico</item>
+        <item>Porac</item>
+        <item>San Fernando City</item>
+        <item>Santa Rita</item>
+        <item>Sta. Ana</item>
+    </string-array>
+    <string-array name="Angeles_City">
+        <item>Anunas</item>
+        <item>Capaya</item>
+        <item>Balibago</item>
+        <item>Cutud</item>
+        <item>Margot</item>
+        <item>Mining</item>
+        <item>Ninoy Aquino</item>
+        <item>Pulung Bulu</item>
+        <item>Pulung Cacutud</item>
+        <item>Pulung Maragul</item>
+        <item>Pulung Bulu</item>
+        <item>Santa Cruz</item>
+        <item>Santo Domingo</item>
+        <item>Sapa Libutad</item>
+        <item>Sapang Bato</item>
+    </string-array>
+    <string-array name="Arayat">
+        <item>Arenas</item>
+        <item>Telapayong</item>
+        <item>San Antonio</item>
+        <item>San Pablo</item>
+    </string-array>
+    <string-array name="Bacolor">
+        <item>Balas</item>
+        <item>Cabetican</item>
+        <item>Concepcion</item>
+        <item>Dolores</item>
+        <item>Duat</item>
+        <item>Gugu</item>
+        <item>Maliwalu</item>
+        <item>Parulog</item>
+        <item>Potrero</item>
+        <item>Saguin</item>
+        <item>San Antonio</item>
+        <item>San Isidro</item>
+        <item>San Roque</item>
+        <item>Sta Barbara</item>
+        <item>Sta Ines</item>
+        <item>Sto Nino</item>
+        <item>Talba</item>
+        <item>Tinajero</item>
+    </string-array>
+    <string-array name="Dinalupihan">
+        <item>Dalao</item>
+        <item>Pentor</item>
+        <item>Tucop</item>
+        <item>Culis</item>
+        <item>Bagac</item>
+        <item>Dalao</item>
+        <item>Binasak</item>
+    </string-array>
+    <string-array name="Floridablanca">
+        <item>Apalit</item>
+        <item>Basa Air Base</item>
+        <item>Benedicto</item>
+        <item>Calantas</item>
+        <item>Carmencita</item>
+        <item>Consuelo</item>
+        <item>Dampe</item>
+        <item>Del Carmen</item>
+        <item>Gutad</item>
+        <item>Malabo</item>
+        <item>Pabanlag</item>
+        <item>Paguiruan</item>
+        <item>Palmayo</item>
+        <item>Pandaguirig</item>
+        <item>San Antonio</item>
+        <item>San Jose</item>
+        <item>Solib</item>
+        <item>Sto Rosario</item>
+        <item>Valdez</item>
+    </string-array>
+    <string-array name="Guagua">
+        <item>Ascomo</item>
+        <item>Maquiapo</item>
+    </string-array>
+    <string-array name="Hermosa">
+        <item>Balsic</item>
+    </string-array>
+    <string-array name="Lubao">
+        <item>San Francisco</item>
+        <item>Prado</item>
+    </string-array>
+    <string-array name="Mabalacat">
+        <item>Atlu Bola</item>
+        <item>Bical</item>
+        <item>Bundagul</item>
+        <item>Calumpang</item>
+        <item>Camachiles</item>
+        <item>Dolores</item>
+        <item>Duquit</item>
+        <item>Mabato-Bato</item>
+        <item>Mangalit</item>
+        <item>San Jose</item>
+        <item>San Roque</item>
+        <item>Sapang Balen</item>
+        <item>Sapang Maisac</item>
+        <item>Sta Lucia</item>
+        <item>Sta Maria</item>
+        <item>Sto Rosario</item>
+        <item>Tabun</item>
+    </string-array>
+    <string-array name="Magalang">
+        <item>Bucanan</item>
+        <item>Dolores</item>
+        <item>Mandani</item>
+        <item>Navaling</item>
+        <item>San Antonio</item>
+        <item>San Idelfonso</item>
+        <item>San Pedro Ii</item>
+        <item>San Roque</item>
+        <item>Sta Lucia</item>
+        <item>Sto Rosario</item>
+    </string-array>
+    <string-array name="Mexico">
+        <item>Acli</item>
+        <item>Buenavista</item>
+        <item>Camuning</item>
+        <item>Capaya</item>
+        <item>Culabasa</item>
+        <item>Dalisdis</item>
+        <item>Eden</item>
+        <item>Ganduz</item>
+        <item>Malino</item>
+        <item>Nueva Victoria</item>
+        <item>Pandacaqui</item>
+        <item>Pangatlan</item>
+        <item>Panipuan</item>
+        <item>San Antonio</item>
+        <item>San Pedro Camuning</item>
+        <item>Tangle</item>
+        <item>San Pablo</item>
+        <item>Suclaban</item>
+    </string-array>
+    <string-array name="Porac">
+        <item>Babo Pangulo</item>
+        <item>Babo Sacan</item>
+        <item>Balubad</item>
+        <item>Balucbuc</item>
+        <item>Calzadang Bayu</item>
+        <item>Camias</item>
+        <item>Cangatba</item>
+        <item>Dawi</item>
+        <item>Dolores</item>
+        <item>Hacienda Dolor</item>es
+        <item>Jalung</item>
+        <item>Mancatian</item>
+        <item>Manibaug</item>
+        <item>Manibaug Parala</item>ya
+        <item>Manuali</item>
+        <item>Mitla Proper</item>
+        <item>Palat</item>
+        <item>Pias</item>
+        <item>Pio</item>
+        <item>Planas</item>
+        <item>Pulung Santol</item>
+        <item>Quila</item>
+        <item>Salu</item>
+        <item>San Antonio</item>
+        <item>San Basillo</item>
+        <item>San Jose Mitla</item>
+        <item>Santa Cruz</item>
+        <item>Sapang Uwak</item>
+        <item>Sepung Bulaun</item>
+    </string-array>
+    <string-array name="San_Fernando_City">
+        <item>Cacutud</item>
+        <item>Baliti</item>
+        <item>Bulaon</item>
+        <item>Calulut</item>
+        <item>Camuning</item>
+        <item>Del Rosario</item>
+        <item>Dela Paz Norte</item>
+        <item>Dela Paz Sur</item>
+        <item>Lara</item>
+        <item>Maimpis</item>
+        <item>Malino</item>
+        <item>Malpitic</item>
+        <item>Panipuan</item>
+        <item>Saguin</item>
+        <item>Sindalan</item>
+        <item>Telabastagan</item>
+    </string-array>
+    <string-array name="Santa_Rita">
+        <item>Dila-Dila</item>
+        <item>San Basilio</item>
+        <item>San Isidro</item>
+        <item>San Juan</item>
+    </string-array>
+    <string-array name="Sta_Ana">
+        <item>San Pablo</item>
+    </string-array>
+</resources>
