@@ -8,6 +8,7 @@
          location permissions for the 'MyLocation' functionality.
     -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <application
         android:allowBackup="true"
@@ -17,8 +18,8 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
+                <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -38,7 +39,10 @@
             android:name=".CreateFields"
             android:label="@string/title_activity_create_fields" />
         <activity android:name=".CreateFarmer" />
-        <activity android:name=".CreateFieldDetails"></activity>
+        <activity
+            android:name=".CreateFieldDetails"
+            android:label="@string/title_activity_create_field_details" />
+        <activity android:name=".Login"> </activity>
     </application>
 
 </manifest>
